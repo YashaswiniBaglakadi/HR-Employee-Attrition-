@@ -16,3 +16,5 @@ This project explores **employee attrition** and identifies patterns such as **g
 - Exploratory data analysis (EDA)
 - Visualizations
 - A/B testing
+## Output
+![output](https://github.com/YashaswiniBaglakadi/HR-Employee-Attrition-/blob/432a56a5c4f70761ebc5476133afaef60bed1443/OP%20%20image/Screenshot%202025-08-31%20122711.png)
